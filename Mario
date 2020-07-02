@@ -1,0 +1,11 @@
+get_int
+int n;
+do
+{
+  n = get_int("positive number:");
+}
+(n < 1) || (n > 8)
+for (int = 0; 1 < 8; i++)
+{
+  priintf("#\n");
+}
